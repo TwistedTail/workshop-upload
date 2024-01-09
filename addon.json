@@ -1,0 +1,8 @@
+{
+  "title": "Github Workshop Upload Test Addon",
+  "type": "tool",
+  "tags": [
+    "build"
+  ],
+  "ignore": []
+}
